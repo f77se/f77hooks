@@ -33,7 +33,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "@f77se/f77hooks",
+  "name": "f77hooks",
   "author": "f77se",
   "module": "dist/f77hooks.esm.js",
   "size-limit": [
